@@ -59,8 +59,3 @@ hr bot/
 - **Data Processing**: NumPy, Pydantic
 - **HTTP**: Requests
 
-## Notes
-
-- The app requires the `employees.json` file to be present
-- For production deployment, consider using environment variables for configuration
-- The backend API runs on `http://localhost:8000` by default
